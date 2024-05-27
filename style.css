@@ -1,0 +1,51 @@
+#card{
+    background-color: greenyellow;
+    width: 400px;
+    height: 580px;
+    border-radius: 5%;
+    margin-left: 400px;
+}
+
+#picture {
+    width: 200px;
+    height: 250px;
+    border-radius: 5%;
+    margin-top: 20px;
+    margin-left: 90px;
+}
+
+#info {
+    background-color: blueviolet;
+    padding-left: 40px;
+    margin: 20px;
+    border-radius: 5%;
+}
+
+#techs {
+    width: 45px;
+    height: 45px;
+    margin-left: 25px;
+}
+
+#code p {
+    margin-left: 70px;
+    text-transform: uppercase;
+}
+
+#code {
+    padding-left: 20px;
+}
+
+#cont {
+    width: 45px;
+    height: 45px;
+    margin-left: 25px;
+}
+#contact p {
+    margin-left: 70px;
+    text-transform: uppercase;
+}
+
+#contact {
+    padding-left: 20px;
+}
